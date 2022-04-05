@@ -9,4 +9,4 @@
 |SPAR|Élelmiszer|2013|2022.04.07.|ferikbalint|
 |ROSSMANN|Drogéria|2016|2022.04.07.|ferikbalint|
 |Magyar PCM|Elektronika|2003|2022.04.07.|ferikbalint|
-|Garfield|Képregény|2003 2010|2022.04.07.|ferikbalint|
+|Garfield|Képregény|2003, 2010|2022.04.07.|ferikbalint|
