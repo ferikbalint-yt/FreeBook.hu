@@ -1,5 +1,5 @@
 # Újságok/Könyvek listája
-**Frissítve: 2022. 04. 06.**
+**Frissítve: 2022. 04. 07.**
 ---
 
 |Név|Típus|Évfolyamok|Hozzáadás Dátuma|Hozzáadta|
